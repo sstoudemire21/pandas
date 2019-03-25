@@ -1,0 +1,10 @@
+After a few calculations to observe the similarities and difference between the gamers and purchases of fantasy game
+Heroes of Pymoli. The data provided gave insight to the type of gamers involved in this particular game. There were quite	
+a few trends noticed once this data was sorted and filtered through. As expected, male players had the highest number of 
+purchases but the interesting information identified was the close amount of both the average purchase price and average
+purchase total between all gender types. Another trend identified took place in the age group bracket. Based on the purchase
+total, the age group with the lowest player count is the 40+ age group (1.22%) and the age group with the highest player
+count is 20-24 with the percentage of 40.28%. After identifying the number of purchase made by each age group, more data was
+calculated and though the 40+ age group showed the lowest player count, the age group >10 shows an average purchase price
+of $8.47 whereas the 40+ age group has an average of $42.86. After reviewing this data, we can conclude that males between 
+the ages of 20-24 have a higher player count and spends more money on fantasy game Heroes of Pymoli.
